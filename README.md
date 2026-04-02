@@ -46,7 +46,7 @@ Analyzed whether players with the most room to grow (large gap between current a
 ```
 fifa-player-market-value-analysis/
 ├── fifa_market_value_analysis.R     # My visualization code (Overall Rating, Nationality, Potential Gap)
-├── fifa_group_final_report.pdf      # Full group report with all visualizations
+├── FIFA.pdf                         # Full group report with all visualizations
 └── README.md
 ```
 
